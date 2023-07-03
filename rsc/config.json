@@ -1,0 +1,12 @@
+{
+    "connectionString": "mongodb+srv://xxxxxxxxxxx.mongodb.net",
+    "keyvault": {
+        "db": "encryptionJava",
+        "coll": "__keyvault"
+    },
+    "data": {
+        "db": "encryptionJava",
+        "coll": "secretData"
+    },
+    "masterKeyPath": "/master-key.txt"
+}

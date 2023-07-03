@@ -1,0 +1,7 @@
+.vscode
+bin/
+target/
+
+mongocryptd.pid
+.DS_Store
+rsc/master-key.txt
